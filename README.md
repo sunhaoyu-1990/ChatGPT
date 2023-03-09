@@ -15,7 +15,7 @@ Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
 
 <summary>
 
-# V1 Standard ChatGPT
+# V1-V2 Standard ChatGPT
 > Update 2023/03/09 7:35AM - Working again with missing features.
 >
 > Missing features:
